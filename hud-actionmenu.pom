@@ -10,7 +10,7 @@
     <dependency>
       <groupId>com.vuzix</groupId>
       <artifactId>hud-resources</artifactId>
-      <version>1.4</version>
+      <version>1.6</version>
       <type>aar</type>
     </dependency>
   </dependencies>
