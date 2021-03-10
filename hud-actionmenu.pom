@@ -10,13 +10,13 @@
     <dependency>
       <groupId>com.vuzix</groupId>
       <artifactId>hud-resources</artifactId>
-      <version>2.2</version>
+      <version>2.2.1</version>
       <type>aar</type>
     </dependency>
     <dependency>
       <groupId>com.vuzix</groupId>
       <artifactId>sdk-speechrecognitionservice</artifactId>
-      <version>1.9</version>
+      <version>1.91</version>
     </dependency>
   </dependencies>
 </project>
