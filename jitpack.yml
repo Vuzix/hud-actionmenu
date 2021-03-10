@@ -1,0 +1,2 @@
+install:
+mvn install:install-file -Dfile=hud-actionmenu.aar -DpomFile=hud-actionmenu.pom -Djavadoc=hud-actionmenu-javadoc.jar -DgroupId=com.vuzix -DartifactId=hud-actionmenu -Dversion=2.0 -Dpackaging=aar -DgeneratePom=true
