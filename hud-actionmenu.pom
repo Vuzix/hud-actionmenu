@@ -13,5 +13,10 @@
       <version>2.0</version>
       <type>aar</type>
     </dependency>
+    <dependency>
+      <groupId>com.vuzix</groupId>
+      <artifactId>sdk-speechrecognitionservice</artifactId>
+      <version>1.7</version>
+    </dependency>
   </dependencies>
 </project>
