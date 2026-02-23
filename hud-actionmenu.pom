@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.vuzix</groupId>
   <artifactId>hud-actionmenu</artifactId>
-  <version>1.16.1</version>
+  <version>1.16.2</version>
   <packaging>aar</packaging>
   <url>https://vuzix.github.io/hud-actionmenu</url>
   <inceptionYear>2017</inceptionYear>
